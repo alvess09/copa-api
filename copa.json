@@ -3,11 +3,11 @@
   "alemanha": {
   	  "uniforme1" : "linkAqui",
   	  "uniforme2" : "linkAqui"
-  },
+   },
   "arabiasaudita": {
   	  "uniforme1" : "linkAqui",
   	  "uniforme2" : "linkAqui"
-  },
+   },
   "argentina": {
   	  "uniforme1" : "linkAqui",
   	  "uniforme2" : "linkAqui"
@@ -27,7 +27,7 @@
   "camaroes": {
   	  "uniforme1" : "linkAqui",
   	  "uniforme2" : "linkAqui"
-  },
+   },
   "canada": {
   	  "uniforme1" : "linkAqui",
   	  "uniforme2" : "linkAqui"
